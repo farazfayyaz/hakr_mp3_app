@@ -4,6 +4,8 @@ import Code from '../images/code.png'
 import Language from '../images/Language.png'
 import Streaming from '../images/streaming.png'
 
+//feature section
+
 function Features() {
   return (
     <section className='lg:max-h-96 py-12 flex justify-around '>

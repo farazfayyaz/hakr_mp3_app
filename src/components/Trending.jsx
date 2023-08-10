@@ -3,6 +3,8 @@ import LunaLi from '../images/LunaLi.jpg'
 import KyleDion from '../images/KyleDion.jpg'
 import TwoFeet from '../images/TwoFeet.jpg'
 
+//trending page
+
 function Trending() {
   return (
     <section className='lg:h-96 lg:py-72 flex flex-col gap-10 justify-center sm:h-30 sm:py-10'>

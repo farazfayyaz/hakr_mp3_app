@@ -1,5 +1,7 @@
 import React from 'react'
 
+//hero section
+
 function Hero() {
   return (
     <section className='lg:max-h-96 py-72 text-center flex justify-evenly max-md:py-20 max-sm:py-10'>

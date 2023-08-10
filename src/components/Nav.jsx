@@ -1,5 +1,7 @@
 import React from 'react'
 
+//navigation section
+
 function Nav() {
   return (
     <header className='bg-black text-white h-20 my-4'>

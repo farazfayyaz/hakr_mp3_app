@@ -1,5 +1,7 @@
 import React from 'react'
 
+//discover section
+
 function Discover() {
   return (
     <section className='h-96 py-28 flex justify-center'>

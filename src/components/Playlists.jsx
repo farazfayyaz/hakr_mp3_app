@@ -3,6 +3,8 @@ import ChillBeats from '../images/ChillBeats.png'
 import MinimalBeats from '../images/MinimalBeats.png'
 import Sundown from '../images/Sundown.png'
 
+//playlist section
+
 function Playlists() {
   return (
     <section className='lg:max-h-96 lg:py-72 flex flex-col gap-10 justify-center sm:h-30 sm:py-10'>
